@@ -1,0 +1,24 @@
+{
+  "name": "email_signatures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-convert": "^0.2.0",
+    "gulp-data": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-swig": "^0.8.0",
+    "gulp-template": "^3.1.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
